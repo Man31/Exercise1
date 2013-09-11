@@ -1,6 +1,7 @@
 #include "Manager.h"
 #include <iostream>
 
+//Random comment
 Manager::Manager()
    {
    totalHours = 0;
